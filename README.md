@@ -54,7 +54,6 @@ I decided to focus on the `temp_max` column for most statistical and preprocessi
 - Jupyter Notebook
 - Pandas
 - Matplotlib
-- Seaborn
 
 ---
 
