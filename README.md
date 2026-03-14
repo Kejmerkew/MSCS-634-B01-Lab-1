@@ -56,7 +56,3 @@ I decided to focus on the `temp_max` column for most statistical and preprocessi
 - Matplotlib
 
 ---
-
-## Conclusion
-
-This lab provided hands-on experience with data exploration, cleaning, visualization, and statistical analysis. These techniques are essential for preparing real-world datasets for deeper analysis and machine learning applications.
